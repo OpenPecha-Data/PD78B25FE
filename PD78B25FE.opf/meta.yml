@@ -1,0 +1,28 @@
+id: PD78B25FE
+initial_creation_type: input
+source_metadata:
+  title: Apang Tertön Series
+  language: en
+  description: 'Texts by and about Apang Tertön (a paṃ gter ston) alias Pawo Chöying
+    Dorje (dpa'' bo chos dbyings rdo rje, 1895–1945):'
+  volume:
+    c1610b96771c4ebab89933b6ebc50812:
+      title: A Prayer for Auspiciousness
+      parent: Auspiciousness
+    485f418eebd34138a5e5c89330f2b320:
+      title: A Prayer to Chöying Dorje
+      parent: Prayers
+    36e3da7d33e84257b0533d5cf50888dc:
+      title: A Prayer to Mañjuśrī
+      parent: Prayers
+    89ab785028a74e528799591332e75a31:
+      title: A Prayer to Yumka Tsogyal
+      parent: Prayers
+    1e6944a7d91e4f62852753417c87d415:
+      title: A Short Prayer to Chöying Dorje
+      parent: Prayers
+    171f025183ac4486aeda74d7d6fd97c6:
+      title: Daily Practice of Vajrakīla
+      parent: Sādhanas
+created_at: '2022-02-28T22:39:48.651535'
+last_modified_at: '2022-02-28T22:39:48.651541'
